@@ -121,7 +121,3 @@ Grad-CAM visualizes which regions of the image the model focuses on when making 
 - Debugging real-world ML pipelines
 
 ---
-
-## 👨‍💻 Author
-
-**Anuj Pandey**
