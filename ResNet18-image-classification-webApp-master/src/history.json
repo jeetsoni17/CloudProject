@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/static/uploads/ba8da098-b761-468a-8e45-e2de1993da90.jpg",
+        "prediction": "frog",
+        "confidence": 100.0
+    },
+    {
+        "image": "/static/uploads/4ade6e06-4b2f-4f7a-a452-2f2bdd561e53.jpg",
+        "prediction": "bird",
+        "confidence": 50.16
+    },
+    {
+        "image": "/static/uploads/89eaad43-b176-46ce-99b2-574137348869.jpg",
+        "prediction": "bird",
+        "confidence": 50.16
+    },
+    {
+        "image": "/static/uploads/90d8b645-4573-454a-8de6-998a8a16cba2.jpg",
+        "prediction": "bird",
+        "confidence": 50.16
+    }
+]

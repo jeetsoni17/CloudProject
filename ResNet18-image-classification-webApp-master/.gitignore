@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+
+# Logs & checkpoints
+src/lightning_logs/
+*.ckpt
+
+# Dataset
+src/dataT/
+*.tar.gz
+
+# Notebook
+.notebook/
+
+# Static files
+static/
